@@ -9,5 +9,5 @@ The aim of the porject was to develop a CNN model to correctly classify blood ce
 
 This project was done in a group of four.
 
-This is our final report: [AN2DL_Report.pdf](https://github.com/giuliadivincenzo/CNN-for-blood-cell-recognition/edit/main/README.md#:~:text=t-,AN2DL_Report,-.pdf).
+This is our final report: [AN2DL_Report.pdf](https://github.com/giuliadivincenzo/CNN-for-blood-cell-recognition/blob/main/AN2DL_Report.pdf).
 
